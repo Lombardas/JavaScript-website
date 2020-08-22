@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"Cam",
+				"cambiaVerde"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"profes",
+				"profesor_string"
+			],
+			[
+				"get",
+				"getUsuarios"
+			],
+			[
+				"p",
+				"p_nombre"
+			],
+			[
+				"div",
+				"divsAmarillos"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"bus",
+				"Busqueda"
+			],
+			[
+				"arra",
+				"Array"
+			],
+			[
+				"objetivo",
+				"objetivoBuscar"
+			],
+			[
+				"in",
+				"infoAr"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Curso JS/www/aprendiendoJquery/interface.html",
+		"/D/Curso JS/www/aprendiendoJquery/interface.js",
+		"/D/Curso JS/www/aprendiendoJquery/ajax.js",
+		"/D/Curso JS/www/aprendiendoJquery/ajax.html",
+		"/D/Curso JS/www/aprendiendoJquery/interface.hmtl",
+		"/D/Curso JS/www/aprendiendoJquery/efectos.html",
+		"/D/Curso JS/www/aprendiendoJquery/efectos.js",
+		"/D/Curso JS/www/aprendiendoJquery/textos.js",
+		"/D/Curso JS/www/aprendiendoJquery/textos.html",
+		"/D/Curso JS/www/aprendiendoJquery/eventos.js",
+		"/D/Curso JS/www/aprendiendoJquery/eventos.html",
+		"/D/Curso JS/www/aprendiendoJquery/index.html",
+		"/D/Curso JS/www/aprendiendoJquery/selectores.js",
+		"/D/Curso JS/www/hola-mundo/fechas.js",
+		"/D/Curso JS/www/hola-mundo/trycatch.js",
+		"/D/Curso JS/www/hola-mundo/fetch.js",
+		"/D/Curso JS/www/hola-mundo/datosexternos.html",
+		"/D/Curso JS/www/hola-mundo/pagina.html",
+		"/D/Curso JS/www/hola-mundo/formulario.html",
+		"/D/Curso JS/www/hola-mundo/index.html",
+		"/D/Curso JS/www/hola-mundo/localstorage.js",
+		"/D/Curso JS/www/hola-mundo/ejerciciolocalstorage.js",
+		"/D/Curso JS/www/hola-mundo/ejerciciodom.js",
+		"/D/Curso JS/www/hola-mundo/json.js",
+		"/D/Curso JS/www/hola-mundo/eventos.js",
+		"/D/Curso JS/www/hola-mundo/dom.js",
+		"/D/Curso JS/www/hola-mundo/bom.js",
+		"/D/Curso JS/www/hola-mundo/timers.js",
+		"/D/Curso JS/www/hola-mundo/ejercicioAr.js",
+		"/D/Curso JS/www/hola-mundo/holamundo.js",
+		"/D/Curso JS/www/hola-mundo/ejercicio1.js",
+		"/D/Curso JS/www/hola-mundo/funcionesAnonimas.js",
+		"/D/Curso JS/www/hola-mundo/funciones-texto.js",
+		"/D/Curso JS/www/hola-mundo/plantillas.js",
+		"/D/Curso JS/www/hola-mundo/buscarArray.js",
+		"/D/Curso JS/www/hola-mundo/10-ventanas.js",
+		"/D/Curso JS/www/hola-mundo/03-let-y-var.js",
+		"/D/Curso JS/www/hola-mundo/index"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
