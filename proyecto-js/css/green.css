@@ -1,0 +1,30 @@
+
+body{
+
+	background: url('../img/hojas.jpg');
+	background-attachment: fixed;
+}
+
+#logo{
+	
+	background: #235E3D;
+	
+}
+
+
+#menu ul li:hover{
+
+	background: #235E3D;
+
+}
+
+.button-more{
+	background: #235E3D;
+}
+
+#acordeon .ui-accordion-header.ui-state-active {
+
+ background: #235E3D; 
+ border: 1px #ccc;
+}
+

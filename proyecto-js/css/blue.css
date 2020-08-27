@@ -1,0 +1,28 @@
+body{
+
+	background: url('../img/cielo.jpg');
+	background-attachment: fixed;
+}
+
+#logo{
+	
+	background: #1f87C4;
+	
+}
+
+
+
+#menu ul li:hover{
+
+	background: #1f87C4;
+
+}
+
+.button-more{
+	background: #1f87C4;
+}
+
+#acordeon .ui-accordion-header.ui-state-active {
+ background: #1f87C4; 
+ border: 1px #ccc;
+}

@@ -8,18 +8,17 @@
 		<!-- Estilos CSS -->
 		<link rel="stylesheet" type="text/css" href="css/styles.css"/>
 		<link id="theme" rel="stylesheet" type="text/css" href="css/green.css"/>
-
-		<!-- Libreria del slider -->
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  		<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
-
+		<!-- jQuery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	
+  		
   		<!-- JS propio -->
   		<script type="text/javascript" src="js/main.js"></script>
-  		<!-- Moment.js -->
-  		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
-  		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/locale/en-gb.min.js"></script>
-  		
+  		 
+  		<!-- Script validator -->
+  		 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.3.26/jquery.form-validator.min.js"></script>		
 
 	</head>
 
@@ -43,7 +42,7 @@
 
 				<navbar id="menu">
 					<ul>
-						<li><a href="index.html">HOME</a></li>
+						<li><a href="index.hmtl">HOME</a></li>
 						
 						<li><a href="contacto.html">CONTACT</a></li>
 						<li><a href="about.html">ABOUT ME</a></li>
@@ -52,22 +51,33 @@
 				</navbar>
 			</header>
 			
-			<!-- Slider code -->
-			<div id="slider">
-				<div class="bxslider">
-  				<div><img src="img/hojas.jpg" title="hojas"></div>
-  				<div><img src="img/rojo.jpg" title="Rojo"></div>
-  				<div><img src="img/cielo.jpg" title="Cielo"></div>
-				</div>
-			</div>
-
-
 			<!-- Content code -->
 			<section id="content">
-				<div id="posts">
+				<div id="box">
+					<h2>Contacto</h2>
+					<form id="form_contact" action="" method="POST">
+						<label for="name">Nombre</label>
+						<input type="text" name="name" data-validation="alphanumeric"/>
 
-					<!-- Dicanic load of post from JS using JSON -->
+						<label for="surname">Apellidos</label>
+						<input type="text" name="surname"data-validation="alphanumeric"/>
 
+						<label for="email">Email</label>
+						<input type="text" name="email" data-validation="email"//>
+
+						<label for="sex">Sexo</label>
+						<select name="sex" data-validation="required"/>
+							<option value="male">Male</option>
+							<option value="female">Female</option>
+						</select>
+
+						<label for="date">Fecha de nacimiento</label>
+						<input type="text" name="date" data-validation="date"data-validation-format="dd-mm-yyyy"/>
+
+						<label for="years">Edad</label>
+						<input type="number" name="years" data-validation="numbers"/>
+						<input type="submit" value="Send"/>
+					</form>
 					
 				</div>
 				<sidebar id="sidebar"> 
